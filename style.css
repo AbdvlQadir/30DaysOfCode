@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
+body {
+    background-image: url(BG4.jpg);
+    background-size: 50%;
+}
+h1 {
+    font-family: serif;
+    font-size: 2em;
+    border-bottom: 2px solid rgb(148, 43, 60);
+    border-right: 2px solid rgb(148, 43, 60);
+    width: 400px;
+    text-align: center;
+}
+p {
+    font-family: serif;
+    font-size: 20px;
+    color: black;
+}
+img {
+    width: 300px;
+    height: 200px;
+}
